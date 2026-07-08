@@ -149,7 +149,7 @@ Projektissa kehitin osaamistani erityisesti seuraavissa asioissa:
 
 Täydellinen dokumentaatio sisältää yksityiskohtaiset työvaiheet, komennot, komentojen selitykset ja projektin aikana otetut kuvat.
 
-📄 [Avaa täydellinen Arch Linux -asennusdokumentaatio](docs/Arch-Linux-asennus.pdf)
+📄 [Avaa täydellinen Arch Linux -asennusdokumentaatio](https://raw.githubusercontent.com/vuip96/arch-linux-dual-boot/main/docs/Arch-Linux-asennus.pdf)
 
 ## Tekijä
 
